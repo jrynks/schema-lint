@@ -1,0 +1,6 @@
+{
+  "title": "Schema Lint",
+  "card": "custom",
+  "color": "0b0c0e",
+  "description": "Lint JSON-LD for Course, LocalBusiness, and FAQPage."
+}
